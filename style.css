@@ -3,6 +3,7 @@ body {
   max-width: 800px;
   font-family: Arial, sans-serif;
   align-content: center;
+  background-color: rgb(187, 243, 190);
 }
 
 .navbar {
@@ -48,4 +49,9 @@ h2 {
 
 .logo {
   font-size: 24px;
+}
+
+p {
+  font-size: 18px;
+  color: rgb(53, 35, 117);
 }
